@@ -14,15 +14,15 @@ Today we will be working with a WHILE loop which is the simplest form of
 a loop, only one condition must be met for it to run.
 """
 
-"""
+"""DELETE THIS LINE
 while(True):
     print("*")
-"""
+DELETE THIS LINE"""
 
-"""
+"""DELETE THIS LINE
 while(False):
     print("*")
-"""
+DELETE THIS LINE"""
 
 """
 What do you notice about the two loops?
@@ -35,13 +35,15 @@ There are ways to manipulate the condition so make
 the loop run as many timea as you want!
 """
 
+"""DELETE THIS LINE
 #Assign counter an integer digit
-counter = 0
+counter = 
 #Assign runCount an integer digit greater than runCount
-runCount = 10
+runCount = 
 while(counter < runCount):
     print("*")
     counter +=1
+DELETE THIS LINE"""
 
 #Press F5 to save and run your program    
 

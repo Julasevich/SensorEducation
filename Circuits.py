@@ -44,9 +44,10 @@ To tell the board to "wait" you can use the function
 time.sleep(WAIT_PERIOD)
 """
 
+"""DELETE THIS LINE
 #Fill in the while loop to make the LED blink!
 while():
-
+DELETE THIS LINE"""
 
 #Its important to always clean up your mess
 GPIO.cleanup()
