@@ -1,4 +1,4 @@
-#SensorEd Workshop V0.1
+#SensorEd Workshop V0.2
 #Author - Jacob Ulasevich
 #Circuit Introduction
 
@@ -44,10 +44,10 @@ To tell the board to "wait" you can use the function
 time.sleep(WAIT_PERIOD)
 """
 
-"""DELETE THIS LINE
+"""5.1 DELETE THIS LINE
 #Fill in the while loop to make the LED blink!
 while():
-DELETE THIS LINE"""
+5.1 DELETE THIS LINE"""
 
 #Its important to always clean up your mess
 GPIO.cleanup()

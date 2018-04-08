@@ -1,4 +1,4 @@
-#SensorEd Workshop V0.1
+#SensorEd Workshop V0.2
 #Author - Jacob Ulasevich
 #Variable Introduction
 
@@ -22,13 +22,13 @@ c = "Hello World"
 #The following is a BOOLEAN variable.
 d = False
 
-"""DELETE THIS LINE
+"""2.1 DELETE THIS LINE
 print("Integer: " + str(a) + "\n"
       "Double: " + str(b) + "\n"
       "String: " + c + "\n"
       "Boolean: " + d)
 #Press F5 to save and run your program.
-DELETE THIS LINE"""
+2.1 DELETE THIS LINE"""
 
 """
 What do you think the differences between each variable is?
@@ -49,14 +49,14 @@ integer/variable.  Lets see what happens when we try to add an integer and
 a double.
 """
 
-"""DELETE THIS LINE
+"""2.2 DELETE THIS LINE
 #Make x a double variable 
 x = 
 #Make y an integer variable
 y =
 z = 
 print("Result: " + str(z))
-DELETE THIS LINE"""
+2.2 DELETE THIS LINE"""
 
 """
 What did you notice about the result?
@@ -66,18 +66,17 @@ What did you notice about the result?
 Finally, lets add two strings together.
 """
 
-"""DELETE THIS LINE
+"""2.3 DELETE THIS LINE
 #Assign stringOne a word or sentence
 stringOne = 
 #Assigne stringTwo a word or sentence
 stringTwo = 
 print("Result: " + stringOne + stringTwo)
-DELETE THIS LINE"""
+2.3 DELETE THIS LINE"""
 
 """
 Variables are the foundation of computer programming.  Without them
 it would be very difficult to get the computer to understand what you
 are trying to accomplish.  Be sure to keep an eye out as we manipulate
 more variables throughout this workshop.
-"""
 """

@@ -1,4 +1,4 @@
-#SensorEd Workshop V0.1
+#SensorEd Workshop V0.2
 #Author - Jacob Ulasevich
 #Reading Data Introduction
 
