@@ -1,6 +1,6 @@
 # SensorEducation
 
-Sensor Education is a workshop for anyone, including thise with no knowledge of programming at all!  These exercises will take you along the following path as you learn about Python and circuits.
+Sensor Education is a workshop for anyone, including those with no knowledge of programming at all!  These exercises will take you along the following path as you learn about Python and circuits.
 
 -Variables
 -Loops
